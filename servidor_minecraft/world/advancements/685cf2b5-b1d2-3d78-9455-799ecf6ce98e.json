@@ -37,6 +37,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-23 23:44:33 +0000",
       "minecraft:snowy_beach": "2024-12-23 23:45:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-24 23:04:33 +0000",
+      "minecraft:flower_forest": "2024-12-24 23:39:29 +0000",
       "minecraft:frozen_peaks": "2024-12-24 23:26:06 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-24 05:35:10 +0000",
       "minecraft:meadow": "2024-12-24 04:01:21 +0000",
@@ -2290,6 +2291,30 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-24 23:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-24 23:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-24 23:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-24 23:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-24 23:35:09 +0000"
     },
     "done": true
   },
