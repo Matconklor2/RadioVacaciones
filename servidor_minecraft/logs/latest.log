@@ -64,3 +64,11 @@
 [03:18:15] [Server thread/INFO]: MatConKlor joined the game
 [03:18:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=517, y=2, z=-2372} gu{x=519, y=1, z=-2372}
 [03:18:42] [Server thread/INFO]: [MatConKlor: Set own game mode to Survival Mode]
+[03:26:50] [Server thread/INFO]: [MatConKlor: Set own game mode to Creative Mode]
+[03:29:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=500, y=-45, z=-2336} gu{x=501, y=-46, z=-2336}
+[03:29:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=500, y=-45, z=-2336} gu{x=501, y=-46, z=-2336}
+[03:37:00] [Server thread/INFO]: [MatConKlor: Set own game mode to Survival Mode]
+[03:37:08] [Server thread/INFO]: [MatConKlor: Teleported CMSolis20 to MatConKlor]
+[03:38:40] [Server thread/INFO]: CMSolis20 has made the advancement [Enchanter]
+[03:41:32] [Server thread/INFO]: MatConKlor lost connection: Disconnected
+[03:41:32] [Server thread/INFO]: MatConKlor left the game
