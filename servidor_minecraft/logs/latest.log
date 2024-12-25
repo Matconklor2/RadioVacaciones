@@ -46,3 +46,8 @@
 [02:41:21] [Server thread/INFO]: sebasGG9980 lost connection: Disconnected
 [02:41:21] [Server thread/INFO]: sebasGG9980 left the game
 [02:59:51] [Server thread/INFO]: [MatConKlor: Set own game mode to Creative Mode]
+[03:02:15] [Server thread/INFO]: [MatConKlor: Set own game mode to Survival Mode]
+[03:03:02] [Server thread/INFO]: [Not Secure] <CMSolis20> 403 -2323
+[03:04:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=436, y=11, z=-2307} gu{x=437, y=13, z=-2306}
+[03:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=436, y=11, z=-2307} gu{x=437, y=13, z=-2306}
+[03:06:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=409, y=13, z=-2335} gu{x=408, y=13, z=-2335}
