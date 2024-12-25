@@ -1045,6 +1045,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-25 00:48:52 +0000",
       "minecraft:skeleton": "2024-12-24 03:14:38 +0000",
       "minecraft:spider": "2024-12-24 04:11:33 +0000",
       "minecraft:creeper": "2024-12-24 03:43:44 +0000",
@@ -1821,6 +1822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-25 00:45:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-24 23:13:57 +0000"
@@ -1917,6 +1924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-25 00:48:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2024-12-24 23:47:06 +0000"
@@ -1974,6 +1987,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-25 00:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-25 00:45:14 +0000"
     },
     "done": true
   },
