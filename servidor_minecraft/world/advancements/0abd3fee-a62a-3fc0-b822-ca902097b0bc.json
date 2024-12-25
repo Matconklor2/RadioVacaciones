@@ -7,10 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-25 02:17:37 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-24 06:02:51 +0000",
       "minecraft:taiga": "2024-12-24 04:14:36 +0000",
       "minecraft:deep_ocean": "2024-12-24 04:45:34 +0000",
       "minecraft:frozen_river": "2024-12-24 04:21:43 +0000",
+      "minecraft:cherry_grove": "2024-12-25 02:22:25 +0000",
+      "minecraft:sunflower_plains": "2024-12-25 02:28:01 +0000",
       "minecraft:birch_forest": "2024-12-24 05:53:48 +0000",
       "minecraft:bamboo_jungle": "2024-12-24 04:53:47 +0000",
       "minecraft:wooded_badlands": "2024-12-24 04:55:07 +0000",
@@ -24,6 +27,7 @@
       "minecraft:stony_shore": "2024-12-24 04:22:20 +0000",
       "minecraft:dripstone_caves": "2024-12-24 02:09:47 +0000",
       "minecraft:snowy_taiga": "2024-12-24 04:23:54 +0000",
+      "minecraft:grove": "2024-12-25 02:17:33 +0000",
       "minecraft:cold_ocean": "2024-12-24 04:29:33 +0000",
       "minecraft:forest": "2024-12-24 01:50:51 +0000",
       "minecraft:lush_caves": "2024-12-24 04:59:43 +0000",
@@ -35,6 +39,7 @@
       "minecraft:jungle": "2024-12-24 05:25:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 04:19:59 +0000",
       "minecraft:snowy_beach": "2024-12-24 04:27:31 +0000",
+      "minecraft:flower_forest": "2024-12-25 02:27:33 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-24 04:48:03 +0000",
       "minecraft:meadow": "2024-12-25 01:51:47 +0000",
       "minecraft:plains": "2024-12-24 01:57:08 +0000"
@@ -1959,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-25 02:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-24 23:31:07 +0000"
@@ -2020,6 +2031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-25 02:12:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-24 23:38:48 +0000"
@@ -2074,6 +2091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-25 02:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-25 00:47:16 +0000"
@@ -2101,6 +2124,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-24 23:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-25 02:25:50 +0000"
     },
     "done": true
   },
